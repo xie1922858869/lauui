@@ -1,0 +1,18 @@
+<template>
+  <lau-card></lau-card>
+</template>
+
+<script>
+export default {
+  config: {
+    usingComponents: {
+      'lau-card': '@lauui/lau-card'
+    }
+  },
+  data: { },
+  methods: { }
+}
+</script>
+
+<style>
+</style>

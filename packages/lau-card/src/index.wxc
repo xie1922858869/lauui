@@ -1,0 +1,24 @@
+<template>
+  <view class="lau-card">
+    <view>LauCard Component</view>
+  </view>
+</template>
+
+<script>
+export default {
+  config: {
+    usingComponents: { }
+  },
+  behaviors: [ ],
+  properties: { },
+  data: { },
+  methods: { }
+}
+
+
+</script>
+
+<style>
+.lau-card {
+}
+</style>

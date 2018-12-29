@@ -1,0 +1,16 @@
+{
+  "name": "@lauui/lau-card",
+  "version": "1.0.0",
+  "description": "卡片 - 小程序组件",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meili/minui/tree/master/packages/lau-card"
+  },
+  "author": "",
+  "license": "MIT",
+  "minConfig": {
+    "component": true
+  }
+}

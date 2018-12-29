@@ -1,0 +1,9 @@
+# editor
+.idea
+.vscode
+.DS_Store
+.scannerwork
+
+# dependencies
+node_modules
+/bin/

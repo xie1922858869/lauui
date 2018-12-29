@@ -11,6 +11,12 @@ module.exports = {
           "name": "卡片",
           "icon": "",
           "code": ""
+        },
+        {
+          "id": "card",
+          "name": "卡片",
+          "icon": "",
+          "code": ""
         }
       ]
     }

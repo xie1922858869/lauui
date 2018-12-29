@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "lau-card": "../../../packages/lau-card/dist/index"
-  },
-  "component": true
-}
